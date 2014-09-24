@@ -1,7 +1,12 @@
-/*This is a comment*/
+/* CSS Stuff goes here */
+
 body
 {
-background-color:blue;
-font-family:Helvetica;
-color:white;
+background-color:green;
+font-family:helvetica;
+color:black;
 }
+body{
+background-image: url('restaurant.png');
+    background-color: #cccccc;
+	}
